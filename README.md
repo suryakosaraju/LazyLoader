@@ -2,7 +2,7 @@
 LazyLoading script to add to any website for improving performance. 
 
 ### How it works?
-Uses InspectionObserver API to track images and the viewport to load the images in a lazy manner.
+Uses [InspectionObserver API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) to track images and the viewport to load the images in a lazy manner.
 
 ### How to use?
 1. Add the script to the index of your website
