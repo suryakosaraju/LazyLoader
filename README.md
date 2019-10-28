@@ -9,4 +9,4 @@ Uses InspectionObserver API to track images and the viewport to load the images 
 2. Change the `src` tag to `data-src` for the images that you want to lazy load.
 3. Reload and track the network logs in the dev-tools of your browser to see the results.
 
-*Note*: Use [web.dev](web.dev) to see the performance of your website/web-app.
+*Note*: Use [web.dev](https://web.dev/) to see the performance of your website/web-app.
